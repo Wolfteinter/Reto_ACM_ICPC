@@ -20,7 +20,7 @@ G - [Gluing Pictures :bulb:](https://matcomgrader.com/problem/9641/gluing-pictur
 ## Problema 8 
 H - [Hold or Continue? :bulb:](https://matcomgrader.com/problem/9642/hold-or-continue/)
 ## Problema 9 
-I - [Improve SPAM :balloon:](https://matcomgrader.com/problem/9643/improve-spam/)
+I - [Improve SPAM :balloon::balloon:](https://matcomgrader.com/problem/9643/improve-spam/)
 ## Problema 10 
 J - [Jumping Grasshopper :bulb:](https://matcomgrader.com/problem/9644/jumping-grasshopper/)
 ## Problema 11 
