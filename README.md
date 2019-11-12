@@ -5,4 +5,6 @@ _¡Vamos, si podemos! :muscle: :fire:_
 * Si no se a solucionado, el jueves, viernes y sábado ver solución y estudiarla a profundidad.
 ## Semana 1
 I - [Improve SPAM :balloon:](https://matcomgrader.com/problem/9643/improve-spam/)
+## Semana 2
+G - [Gluing Pictures :bulb:](https://matcomgrader.com/problem/9641/gluing-pictures/)
 
