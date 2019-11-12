@@ -11,14 +11,14 @@ lli dfs(lli v){
     for(int i = 0;i<lista[v].size();i++){
         if(lista[v][i]<=m-1){
             if(DP[lista[v][i]] == 0){
-                msj += dfs(lista[v][i]);
-            }else msj += DP[lista[v][i]];
+                msj = (msj + dfs(lista[v][i]))%MAX;
+            }else msj = (msj + DP[lista[v][i]])%MAX;
         }else{
             msj = (msj + 1)%MAX;
             setT.insert(lista[v][i]);
         }
     }
-    DP[v] += msj;
+    DP[v] = (DP[v] + msj)%MAX;
     return msj;
 }
 int main(){
