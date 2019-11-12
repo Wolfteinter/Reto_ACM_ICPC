@@ -1,12 +1,12 @@
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long int lli;
-lli MAX = 1000000007;
+lli MAX = 10000000007;
 lli V,m;
 vector<lli> *lista;
 unordered_set<lli> setT;
 lli *DP;
-int dfs(lli v){
+lli dfs(lli v){
     lli msj = 0;
     for(int i = 0;i<lista[v].size();i++){
         if(lista[v][i]<=m-1){
@@ -14,14 +14,12 @@ int dfs(lli v){
                 msj += dfs(lista[v][i]);
             }else msj += DP[lista[v][i]];
         }else{
-            msj++;
-            msj=msj%MAX;
+            msj = (msj + 1)%MAX;
             setT.insert(lista[v][i]);
         }
     }
     DP[v] += msj;
     return msj;
-
 }
 int main(){
     lli x,a;
@@ -34,6 +32,6 @@ int main(){
         while(x--){cin>>a;lista[i].push_back(a-1);}
     }
     dfs(0);
-    cout<<DP[0]<<" "<<setT.size()<<endl;
+    cout<<DP[0]%MAX<<" "<<setT.size()<<endl;
     return 0;
 }
