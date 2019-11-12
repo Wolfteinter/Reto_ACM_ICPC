@@ -1,11 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long int lli;
-lli MAX = 10000000007;
+lli MAX = 1000000007;
 lli V,m;
-vector<lli> *lista;
+vector<lli> lista[3000];
 unordered_set<lli> setT;
-lli *DP;
+lli DP[3000];
 lli dfs(lli v){
     lli msj = 0;
     for(int i = 0;i<lista[v].size();i++){
@@ -24,8 +24,6 @@ lli dfs(lli v){
 int main(){
     lli x,a;
     cin>>V>>m;
-    lista = new vector<lli>[m];
-    DP = new lli[V];
     memset(DP,0,sizeof(DP));
     for(int i = 0;i<m;i++){
         cin>>x;
