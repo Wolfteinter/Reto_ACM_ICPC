@@ -12,7 +12,7 @@ C - [Cut Inequality Down :bulb:](https://matcomgrader.com/problem/9636/cut-inequ
 ## Problema 4 
 D - [Dazzling Stars :bulb:](https://matcomgrader.com/problem/9637/dazzling-stars/)
 ## Problema 5 
-E - [Eggfruit Cake :bulb:](https://matcomgrader.com/problem/9638/eggfruit-cake/)
+E - [Eggfruit Cake :balloon:](https://matcomgrader.com/problem/9638/eggfruit-cake/)
 ## Problema 6
 F - [Fabricating Sculptures :bulb:](https://matcomgrader.com/problem/9639/fabricating-sculptures/)
 ## Problema 7
