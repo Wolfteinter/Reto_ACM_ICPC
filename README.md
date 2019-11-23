@@ -24,7 +24,7 @@ I - [Improve SPAM :balloon::balloon:](https://matcomgrader.com/problem/9643/impr
 ## Problema 10 
 J - [Jumping Grasshopper :bulb:](https://matcomgrader.com/problem/9644/jumping-grasshopper/)
 ## Problema 11 
-K - [Know your Aliens :bulb:](https://matcomgrader.com/problem/9645/know-your-aliens/)
+K - [Know your Aliens :balloon:](https://matcomgrader.com/problem/9645/know-your-aliens/)
 ## Problema 12 
 L - [Leverage MDT :bulb:](https://matcomgrader.com/problem/9640/leverage-mdt/)
 ## Problema 13 
