@@ -14,7 +14,7 @@ D - [Dazzling Stars :bulb:](https://matcomgrader.com/problem/9637/dazzling-stars
 ## Problema 5 
 E - [Eggfruit Cake :balloon:](https://matcomgrader.com/problem/9638/eggfruit-cake/)
 ## Problema 6
-F - [Fabricating Sculptures :bulb:](https://matcomgrader.com/problem/9639/fabricating-sculptures/)
+F - [Fabricating Sculptures :balloon:](https://matcomgrader.com/problem/9639/fabricating-sculptures/)
 ## Problema 7
 G - [Gluing Pictures :bulb:](https://matcomgrader.com/problem/9641/gluing-pictures/)
 ## Problema 8 
